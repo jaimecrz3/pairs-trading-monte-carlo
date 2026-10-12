@@ -45,7 +45,7 @@ The OU model produces a substantially more positive expected P&L, illustrating t
 
 ## Files
 
-- `pairs_trading.ipynb` – full analysis and Monte Carlo simulation
+- `KO_PEP_Pairs_Trading.ipynb` – full analysis and Monte Carlo simulation
 - `KO_PEP_Pairs_Trading_Slides.pptx` – 3-slide project summary
 
 ## Python libraries
